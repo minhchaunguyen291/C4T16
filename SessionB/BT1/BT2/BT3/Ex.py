@@ -1,1 +1,1 @@
-Print ("SJI")
+print ("SJI")
